@@ -12,7 +12,7 @@
     "sst:dev": "sst dev"
   },
   "dependencies": {
-    "astro": "^4.7.0",
+    "astro": "^5.15.7",
     "@astrojs/check": "^0.5.10",
     "typescript": "^5.4.5"
   },
